@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <b>Katsiaryna Talkachova</b> 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  <!* todo - change img */>
+  <img src="assets/h1gif1.gif" alt='hello' width="60"/>   
 </h1>
 <h2 align="center">Frontend Developer</h3>
 
@@ -9,13 +9,15 @@
  
  📜 Lanading pages, js board games, e-commerce app in TS, SPAs and GraphQL playground/IDE in React
  
- 🤝 Team player and have expirience as a team-lead in a command of 3 
+ 🤝 Team player and have experience as a team-lead in a command of 3 
  
  🌎 Speak Russian (native), English (B2) 
  
   ⏳ Time-managment is my hobby and aim
   
- ✏️ Solving codewars in spare time  [![codewars](https://www.codewars.com/users/kotsiaryna/badges/small)](https://www.codewars.com/users/kotsiaryna)  
+ ✏️ Solving codewars in spare time
+ 
+ [![codewars](https://www.codewars.com/users/kotsiaryna/badges/small)](https://www.codewars.com/users/kotsiaryna)  
 
 <h3>Languages: </h3>
 <div>

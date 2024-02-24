@@ -42,19 +42,19 @@
   <img src='assets/VSCode.svg' alt='CODE' width='40'>  
 </div>
 
+<h3> Contact me: </h3> 
+<div>
+ <a href="https://t.me/katrin_awsm" target="_blank">
+    <img alt="TG" src="assets/telegram.svg" width="40" />
+  </a>
+   <a href="tel:+375297938298" target="_blank">
+    <img alt="Viber" src="assets/viber.svg" width="40" />
+  </a>
+  <a href="mailto:katsiaryna.n@gmail.com" target="_blank">
+    <img alt="GMail" src="assets/gmail.svg" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/katsiarynatalkachova" target="_blank">
+    <img alt="LI" src="assets/linkedin.svg" width="40" />
+  </a>
+ </div>
  
-
-<!--
-**kotsiaryna/kotsiaryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

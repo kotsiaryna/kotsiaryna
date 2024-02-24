@@ -9,13 +9,15 @@
  
  📜 Lanading pages, js board games, e-commerce app in TS, SPAs and GraphQL playground/IDE in React
  
- 🤝 Team player and have expirience as a team-lead in a command of 3 
+ 🤝 Team player and have experience as a team-lead in a command of 3 
  
  🌎 Speak Russian (native), English (B2) 
  
   ⏳ Time-managment is my hobby and aim
   
- ✏️ Solving codewars in spare time  [![codewars](https://www.codewars.com/users/kotsiaryna/badges/small)](https://www.codewars.com/users/kotsiaryna)  
+ ✏️ Solving codewars in spare time
+ 
+ [![codewars](https://www.codewars.com/users/kotsiaryna/badges/small)](https://www.codewars.com/users/kotsiaryna)  
 
 <h3>Languages: </h3>
 <div>

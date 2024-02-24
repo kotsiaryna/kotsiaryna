@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <b>Katsiaryna Talkachova</b> 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  <!* todo - change img */>
+  <img src="assets/h1gif1.gif" alt='hello' width="60"/>   
 </h1>
 <h2 align="center">Frontend Developer</h3>
 

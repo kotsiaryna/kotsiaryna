@@ -47,7 +47,7 @@
  <a href="https://t.me/katrin_awsm" target="_blank">
     <img alt="TG" src="assets/telegram.svg" width="40" />
   </a>
-   <a href="tel:+375297938298" target="_blank">
+   <a href="viber://+375297938298" target="_blank">
     <img alt="Viber" src="assets/viber.svg" width="40" />
   </a>
   <a href="mailto:katsiaryna.n@gmail.com" target="_blank">

@@ -57,4 +57,35 @@
     <img alt="LI" src="assets/linkedin.svg" width="40" />
   </a>
  </div>
+
+ <h3> My projects: </h3> 
+
+
+<img src="assets/graphiql.png" alt="graphiql" width="200" align="left">
+<h4> GraphQL IDE/Playground </h4>
+
+ **Stack:** React/Redux, TS, SCSS, MUI, Jest 
+ 
+A command project. Playground to send graphQL  requests to open APIs with (optionally) user's headers and variables. Registrationa and login/logout is implemented. Two languages - EN / RU. Error handling. Responsive design (min 320px). Test coverage 80%
+ 
+<a href="https://github.com/kotsiaryna/graphiql-app">REPO </a> <span> &  </span> <a href="https://react-rangers.netlify.app/">DEPLOY</a>
+
+
+<img src="assets/graphiql.png" alt="graphiql" width="200" align="left"> <img src="assets/graphiql.png" alt="graphiql" width="200" align="left">
+<h4> Board Games </h4>
+
+ **Stack:** JS,CSS 
+ Small board games in pure JS. Sound on/of, timer, best results, save, restart. 
+ 
+<a href="https://github.com/kotsiaryna/GemPuzzle/tree/puzzle">GEM PUZZLE REPO </a> <span> &  </span> <a href="https://kotsiaryna.github.io/GemPuzzle/puzzle/">DEPLOY</a>
+<a href="https://github.com/kotsiaryna/GemPuzzle/tree/puzzle">Minesweeper REPO </a> <span> &  </span> <a href="https://kotsiaryna.github.io/GemPuzzle/puzzle/">DEPLOY</a>
+   
+
+
+
+
+
+
+
+
  

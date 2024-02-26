@@ -63,6 +63,7 @@
 
 <img src="assets/graphiql.png" alt="graphiql" width="200" align="left">
 <h4> GraphQL IDE/Playground </h4>
+<i> Dec 2023- Jan 2024</i>
 
  **Stack:** React/Redux, TS, SCSS, MUI, Jest 
  
@@ -70,22 +71,37 @@ A command project. Playground to send graphQL  requests to open APIs with (optio
  
 <a href="https://github.com/kotsiaryna/graphiql-app">REPO </a> <span> &  </span> <a href="https://react-rangers.netlify.app/">DEPLOY</a>
 
+<img src="assets/race.jpg" alt="race" width="200" align="left">
+<h4> Async Race </h4> 
+<i> July 2023</i>
 
-<img src="assets/graphiql.png" alt="graphiql" width="200" align="left"> <img src="assets/graphiql.png" alt="graphiql" width="200" align="left">
-<h4> Board Games </h4>
+ **Stack:** TS, SCSS, Webpack 
+ Car racing with async requests to server with car data. Features: Create/update/remove car, start/stop single car race, start all cars race, winner table, pagination, random car generation.
+
+<a href="https://github.com/kotsiaryna/RSSchool_2023/tree/race"> REPO </a> <span> &  </span> <a href="">DEPLOY - TODO!!!</a>
+
+
+ <img src="assets/minesweeper.jpg" alt="minesweeper" width="200" align="left">
+
+<h4> Minesweeper </h4>
+<i> May 2023</i>
+
+ **Stack:** JS, SCSS, Webpack 
+ 
+ Board game in pure JS. Sound on/of, timer, counter, results, save, restart, dark/light theme, options to chooze size and number of mines
+
+<a href="https://github.com/kotsiaryna/RSSchool_2023/tree/minesweeper"> REPO </a> <span> &  </span> <a href="">DEPLOY - TODO!!!</a>
+
+<img src="assets/gemPuzle.jpg" alt="gemPuzzle" width="200" align="left">
+<h4> Gem Puzzles </h4>
+<i> Oct 2022</i>
 
  **Stack:** JS,CSS 
- Small board games in pure JS. Sound on/of, timer, best results, save, restart. 
  
-<a href="https://github.com/kotsiaryna/GemPuzzle/tree/puzzle">GEM PUZZLE REPO </a> <span> &  </span> <a href="https://kotsiaryna.github.io/GemPuzzle/puzzle/">DEPLOY</a>
-<a href="https://github.com/kotsiaryna/GemPuzzle/tree/puzzle">Minesweeper REPO </a> <span> &  </span> <a href="https://kotsiaryna.github.io/GemPuzzle/puzzle/">DEPLOY</a>
-   
+ Board game in pure JS. Sound on/of, timer, best results, save, restart. 
+ 
+<a href="https://github.com/kotsiaryna/GemPuzzle/tree/puzzle"> REPO </a> 
 
-
-
-
-
-
-
+<a href="https://kotsiaryna.github.io/GemPuzzle/puzzle/">DEPLOY</a>
 
  

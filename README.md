@@ -60,6 +60,38 @@
    <tbody>
    <tr>
     <td width="30%">
+    <img src="assets/coacha.jpg" alt="coacha"  width="300" align="center" > 
+    </td>
+    <td>
+  <h4> Coach Landing Page </h4>
+      
+  <i> Feb - Mar 2024</i>
+   
+   **Stack:** HTML, SCSS, JS, PHP 
+   
+A landing page for a coach A.Chuchlataja. An adaptive cross-browser site with navigation, geotargeting for prices (EUR, USD, RUB, BYN), a feedback form in PHP and carousel for images and events. 
+  
+  </span> <a href="https://pro-coacha.com/">DEPLOY</a>
+  </td>
+ </tr>
+    <tr>
+    <td width="30%">
+    <img src="assets/match3.jpg" alt="match"  width="300" align="center" > 
+    </td>
+    <td>
+  <h4> 2D online game </h4>
+      
+  <i> Apr 2024</i>
+   
+   **Stack:** React/Redux, TS, SCSS, REST API
+
+  A commercial command project. 2D online game, mobile first, adaptive, cross-browser. The game includes several steps (start screen, command choise, tutorial page), 4 game level, rating (both command and personal, promotional popups, sound on/off, game field animation. 
+  
+  <a >REPO N/A </a> <span> &  </span> <a>DEPLOY N/A</a>
+  </td>
+ </tr>
+    <tr>
+    <td width="30%">
     <img src="assets/graphiql.png" alt="graphiql"  width="300" align="center" > 
     </td>
     <td>
@@ -69,7 +101,7 @@
    
    **Stack:** React/Redux, TS, SCSS, MUI, Jest 
 
-  A command project. Playground to send graphQL  requests to open APIs with (optionally) user's headers and variables. Registrationa and login/logout is implemented. Two languages - EN / RU. Error handling. Responsive design (min 320px). Test coverage 80%
+  A command project. Playground to send graphQL  requests to open APIs with (optionally) user's headers and variables. Registration and login/logout is implemented. Two languages - EN / RU. Error handling. Responsive design (min 320px). Test coverage 80%
   
   <a href="https://github.com/kotsiaryna/graphiql-app">REPO </a> <span> &  </span> <a href="https://react-rangers.netlify.app/">DEPLOY</a>
   </td>

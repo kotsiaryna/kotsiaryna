@@ -71,7 +71,7 @@
    
 A landing page for a coach A.Chuchlataja. An adaptive cross-browser site with navigation, geotargeting for prices (EUR, USD, RUB, BYN), a feedback form in PHP and carousel for images and events. 
   
-  </span> <a href="https://pro-coacha.com/">DEPLOY</a>
+  </span> <a href="https://pro-coacha.com/" target="_blank">DEPLOY</a>
   </td>
  </tr>
     <tr>

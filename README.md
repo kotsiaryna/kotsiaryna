@@ -53,7 +53,7 @@
     <img alt="LI" src="assets/linkedin.svg" width="40" />
   </a>
  </div>
-
+ 
  <h3> My projects: </h3> 
 
  <table>
@@ -141,6 +141,12 @@
  </tr>
 </tbody>
 </table>
+
+  <h3> My education: </h3> 
+
+  <img src="assets/JS0.jpg" alt="RSSchool_stage0"  width="200" align="left" >  <img src="assets/Stage2.jpg" alt="RSSchool_stage2"  width="200" align="left" >   <img src="assets/ReactRSS.jpg" alt="RSSchool_react"  width="200" align="left" > 
+  <img src="assets/JSRedev.jpg" alt="REDEV"  width="200" align="left" > 
+
 
 
  

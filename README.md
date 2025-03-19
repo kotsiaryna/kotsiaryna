@@ -5,7 +5,7 @@
 
 <img src="assets/girl.webp" alt="girl" width="300" align="right">
 
- 👩‍💻 1+ year in frontend developing
+ 👩‍💻 2+ year in frontend developing
  
  📜 Lanading pages, js board games, e-commerce app in TS, SPAs and GraphQL playground/IDE in React
  

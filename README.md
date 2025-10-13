@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <b>Katsiaryna Talkachova</b> 
+<h1 align="center">Hi there, I'm <b>Katsiaryna Nazdrenka</b> 
   <img src="assets/h1gif1.gif" alt='hello' width="60"/>   
 </h1>
 <h2 align="center">Frontend Developer</h3>
@@ -7,7 +7,7 @@
 
  👩‍💻 2+ year in frontend developing
  
- 📜 Lanading pages, js board games, e-commerce app in TS, SPAs and GraphQL playground/IDE in React
+ 📜 React Apps, E-commerce, Lanading pages, js board games, GraphQL playground/IDE and other stuff
  
  🤝 Team player and have experience as a team-lead in a command of 3 
  

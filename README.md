@@ -40,13 +40,13 @@
 
 <h3> Contact me: </h3> 
 <div>
- <a href="https://t.me/katrin_awsm" target="_blank">
+ <a href="https://t.me/katherine_awsm" target="_blank">
     <img alt="TG" src="assets/telegram.svg" width="40" />
   </a>
  <a href="viber://chat?number=%2B375297938298" target="_blank">
     <img alt="Viber" src="assets/viber.svg" width="40" />
   </a>
-  <a href="mailto:katsiaryna.n@gmail.com" target="_blank">
+  <a href="mailto:nazdrenka.dev@gmail.com target="_blank">
     <img alt="GMail" src="assets/gmail.svg" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/katsiarynatalkachova" target="_blank">

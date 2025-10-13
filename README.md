@@ -49,7 +49,7 @@
   <a href="mailto:nazdrenka.dev@gmail.com target="_blank">
     <img alt="GMail" src="assets/gmail.svg" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/katsiarynatalkachova" target="_blank">
+  <a href="https://www.linkedin.com/in/katsiaryna-nazdrenka/" target="_blank">
     <img alt="LI" src="assets/linkedin.svg" width="40" />
   </a>
  </div>

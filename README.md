@@ -7,7 +7,7 @@
 
  👩‍💻 3 year in frontend developing
  
- 📜 React Apps, E-commerce, Lanading pages, js board games, GraphQL playground/IDE and other stuff
+ 📜 React Apps, SPA, Micro-frontend, E-commerce, Lanading pages, js board games, GraphQL playground/IDE and other stuff
  
  🤝 Team player and have experience as a team-lead in a command of 3 
  

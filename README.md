@@ -58,22 +58,6 @@
 
  <table>
    <tbody>
-   <tr>
-    <td width="30%">
-    <img src="assets/coacha.jpg" alt="coacha"  width="300" align="center" > 
-    </td>
-    <td>
-  <h4> Coach Landing Page </h4>
-      
-  <i> Feb - Mar 2024</i>
-   
-   **Stack:** HTML, SCSS, JS, PHP 
-   
-A landing page for a coach A.Chuchlataja. An adaptive cross-browser site with navigation, geotargeting for prices (EUR, USD, RUB, BYN), a feedback form in PHP and carousel for images and events. 
-  
-  </span> <a href="https://pro-coacha.com/" target="_blank">DEPLOY</a>
-  </td>
- </tr>
     <tr>
     <td width="30%">
     <img src="assets/match3.jpg" alt="match"  width="300" align="center" > 
@@ -81,7 +65,7 @@ A landing page for a coach A.Chuchlataja. An adaptive cross-browser site with na
     <td>
   <h4> 2D online game </h4>
       
-  <i> Apr 2024</i>
+  <i> Jan - Sep 2024</i>
    
    **Stack:** React/Redux, TS, SCSS, REST API
 
@@ -97,7 +81,7 @@ A landing page for a coach A.Chuchlataja. An adaptive cross-browser site with na
     <td>
   <h4> GraphQL IDE/Playground </h4>
       
-  <i> Dec 2023- Jan 2024</i>
+  <i> Nov - Dec 2023</i>
    
    **Stack:** React/Redux, TS, SCSS, MUI, Jest 
 
@@ -106,6 +90,23 @@ A landing page for a coach A.Chuchlataja. An adaptive cross-browser site with na
   <a href="https://github.com/kotsiaryna/graphiql-app">REPO </a> <span> &  </span> <a href="https://react-rangers.netlify.app/">DEPLOY</a>
   </td>
  </tr>
+   <tr>
+    <td width="30%">
+    <img src="assets/coacha.jpg" alt="coacha"  width="300" align="center" > 
+    </td>
+    <td>
+  <h4> Coach Landing Page </h4>
+      
+  <i> Oct - Dec 2023</i>
+   
+   **Stack:** HTML, SCSS, JS, PHP 
+   
+A landing page for a coach A.Chuchlataja. An adaptive cross-browser site with navigation, geotargeting for prices (EUR, USD, RUB, BYN), a feedback form in PHP and carousel for images and events. 
+  
+  </span> <a href="https://pro-coacha.com/" target="_blank">DEPLOY</a>
+  </td>
+ </tr>
+  
   <tr>
   <td width="30%"> 
   <img src="assets/ecommerce.png" alt="e-commerce" width="300" align="center" >
